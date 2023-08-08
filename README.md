@@ -12,7 +12,7 @@ Maven included in the project
 Getting Started
 Follow the steps below to get started with the Speaking Clock project:
 
-Clone the repository:
+Clone the repository: https://github.com/AmrutaLitke/CodingTask.git
 
 git clone https://github.com/
 Navigate to the project directory:
